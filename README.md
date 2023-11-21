@@ -1,6 +1,6 @@
 # gencolormap
 
-gencolormap program by Martin Lambers
+this is a forge of gencolormap program by Martin Lambers 
 
 [gencolormap home page](https://marlam.de/gencolormap/)
 
@@ -59,6 +59,10 @@ Usage:
 
 
 
+# src code
+
+I have converted library and CLI program to [the one file program](./src/cmdline/g.cpp)
+
 
 
 
@@ -77,7 +81,7 @@ cmake ..
 make
 ```
 
-one file program
+My one file program
 
 ```
 g++ g.cpp -Wall -Wextra -lm
