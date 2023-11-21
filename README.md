@@ -1,9 +1,8 @@
 # gencolormap
 
 this is a forge of gencolormap program by Martin Lambers 
-
-[gencolormap home page](https://marlam.de/gencolormap/)
-
+* [gencolormap home page](https://marlam.de/gencolormap/)
+* [flathub](https://flathub.org/pl/apps/de.marlam.gencolormap)
 
 These tools generate color maps for visualization.
 A variety of methods for sequential, diverging, and qualitative maps is available.
@@ -177,7 +176,7 @@ There is NO WARRANTY, to the extent permitted by law.
 
 # Git
 
-Git repos ( the web frontend)
+Git original repos ( the web frontend)
 * [github](https://github.com/marlam/gencolormap-mirror)
 * [git](https://git.marlam.de/gitweb/?p=gencolormap.git)
 
