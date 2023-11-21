@@ -178,6 +178,16 @@ git clone https://git.marlam.de/git/gencolormap.git
 git clone git@github.com:marlam/gencolormap-mirror.git
 ```
 
+Init new repo and first commit
+
+```
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:adammaj1/gencolormap.git
+git push -u origin main
+```
 
 
 
