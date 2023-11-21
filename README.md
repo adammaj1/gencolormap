@@ -90,7 +90,7 @@ g++ g.cpp -Wall -Wextra -lm
 ./a.out -H
 
 
-
+```txt
 Usage: ./a.out [option...]
 Generates a color map and prints it to standard output.
 Prints the number of colors that had to be clipped to standard error.
@@ -140,7 +140,7 @@ Moreland diverging color maps:
 McNames sequential color maps:
   [-t|--type=mcnames]                 Generate a McNames sequential color map
   [-p|--periods=P]                    Set the number of periods in (0, infty)
-  
+```  
   
 Defaults: format=csv, n=256, type=brewer-sequential
 
@@ -153,13 +153,15 @@ https://marlam.de/gencolormap
 
 
 ./a.out -v
+
+```txt
 gencolormap version 2.3
 https://marlam.de/gencolormap
 Copyright (C) 2022 Computer Graphics Group, University of Siegen.
 Written by Martin Lambers <martin.lambers@uni-siegen.de>.
 This is free software under the terms of the MIT/Expat License.
 There is NO WARRANTY, to the extent permitted by law.
-
+```
 
 
 # Git
