@@ -166,6 +166,13 @@ Written by Martin Lambers <martin.lambers@uni-siegen.de>.
 This is free software under the terms of the MIT/Expat License.
 There is NO WARRANTY, to the extent permitted by law.
 ```
+# Similar projects
+* [1D-RGB-color-gradient](https://github.com/adammaj1/1D-RGB-color-gradient)
+* [1D RGB gray gradients or wave forms](https://github.com/adammaj1/Waveform)
+* [hsluv-color-gradient](https://github.com/adammaj1/hsluv-color-gradient)
+* [1D-pastel-color-gradient-HSV](https://github.com/adammaj1/1D-pastel-color-gradient-HSV)
+* [2D-color-gradient-or-Procedural-texture](https://github.com/adammaj1/2D-color-gradient-or-Procedural-texture)
+* [Mandelbrot-set-with-blended-gradients](https://github.com/adammaj1/Mandelbrot-set-with-blended-gradients)
 
 
 # Git
