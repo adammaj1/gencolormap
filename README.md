@@ -60,7 +60,7 @@ Usage:
 
 # src code
 
-I have converted library and CLI program to [the one file program](./src/cmdline/g.cpp)
+I have converted library and CLI program to [the one file program](./src/cmdline/g.cpp) and added some info functions
 
 
 
@@ -91,6 +91,11 @@ g++ g.cpp -Wall -Wextra -lm
 
 ./a.out --help
 ./a.out -H
+./a.out -f ppm > a.ppm
+./a.out -t brewer-qualitative -f ppm > b.ppm
+
+
+
 
 
 ```txt
@@ -143,13 +148,17 @@ Moreland diverging color maps:
 McNames sequential color maps:
   [-t|--type=mcnames]                 Generate a McNames sequential color map
   [-p|--periods=P]                    Set the number of periods in (0, infty)
-```  
   
 Defaults: format=csv, n=256, type=brewer-sequential
+  
+https://marlam.de/gencolormap  
+```  
+  
 
 
 
-https://marlam.de/gencolormap
+
+
 
 
 # version
