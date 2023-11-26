@@ -89,11 +89,12 @@ g++ g.cpp -Wall -Wextra -lm
 
 # usage
 
+```
 ./a.out --help
 ./a.out -H
 ./a.out -f ppm > a.ppm
 ./a.out -t brewer-qualitative -f ppm > b.ppm
-
+```
 
 
 
